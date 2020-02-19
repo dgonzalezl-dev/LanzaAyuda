@@ -1,9 +1,7 @@
 package lanzaayuda;
 
 
-import com.sun.glass.events.KeyEvent;
 import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.File;
 import java.net.URL;
 import javax.help.HelpBroker;
@@ -13,7 +11,6 @@ import javax.swing.JFrame;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
-import javax.swing.KeyStroke;
 
 
 public class LanzaAyuda{ 
